@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Test task founded on the Internet.
 Made on React/Redux stack
 
-Check it out here: [test-task](sickomode.surge.sh)
+Check it out here: [test-task](http://sickomode.surge.sh/)
